@@ -1,0 +1,64 @@
+.login{
+    margin: auto;
+}
+
+
+.centre{
+    text-align: center;
+}
+
+.Balise{
+    color: white;
+    background-color: blue;
+}
+
+.orange{
+    color: orange;
+}
+
+.binta{
+    color: green;
+}
+
+input{
+    border: none;
+    border-bottom: 2px solid black;
+    width: 50%;
+}
+
+.formulaire{
+    text-align: center;
+}
+
+.forgot-password{
+    margin-left: 667px;
+    /* text-align: center; */
+}
+
+.forgot-password a{
+    color: green;
+}
+
+.Connecter{
+    color: rgb(235, 229, 229);
+    background-color: green;
+    width: 50%;
+    border: none;
+    border-radius: 6px;
+    padding: 7px;
+    font-size: 14px;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    text-align: center; 
+  }
+  
+.Connecter{
+   border-radius: 5px;
+   color: rgba(128, 128, 128, 0.46);
+  } 
+  
